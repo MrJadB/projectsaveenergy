@@ -1,5 +1,3 @@
-
-
 class Character
 {
   string name;
@@ -10,5 +8,31 @@ class Character
   void Dohp(int=15);
   void Doenergy(int=15);
   Character(string="Irénée", int=10, int=200);
-  ~
+  ~Character();
+};
+
+/*
+class Equipment // กระเป๋าตลค.
+{
+
+  protected:
+
+	public:
+
 }
+
+class Item // กระเป๋าตลค.
+{
+
+  protected:
+
+	public:
+
+}
+
+
+
+
+
+
+*/
