@@ -1,2 +1,2 @@
-target: main.cpp
-	g++ main.cpp -o Irenee
+target: main.cpp class.cpp LL.cpp quests.cpp
+	g++ main.cpp class.cpp LL.cpp quests.cpp -o i

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.cpp": [
+      {
+        "id": "cbcca37c-f0ec-4074-99aa-d3592d8ffe99",
+        "line": 100,
+        "version": 3195,
+        "index": 2238
+      }
+    ],
+    "story.h": [
+      {
+        "id": "c9d130d1-0f91-4d8d-9c7c-c32f482ea917",
+        "line": 5,
+        "version": 5208,
+        "index": 80
+      },
+      {
+        "id": "7cc47a84-a4e8-4760-8f08-8f40e27bc0a1",
+        "line": 28,
+        "version": 5208,
+        "index": 545
+      }
+    ]
+  }
+}
